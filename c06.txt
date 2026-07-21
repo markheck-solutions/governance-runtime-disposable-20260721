@@ -1,0 +1,1 @@
+AI unavailability must not bypass or halt deterministic governance.
