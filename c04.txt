@@ -1,0 +1,1 @@
+Wrong-App status spoof must not satisfy protected contexts.
