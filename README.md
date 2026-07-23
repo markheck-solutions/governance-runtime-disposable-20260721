@@ -5,3 +5,5 @@ Disposable application repository for live Governance adoption, transaction, wat
 Runtime canary: clean change.
 
 C-09 deterministic proof remains valid when AI review is unavailable.
+
+C-04 same-head pull-request binding proof.
