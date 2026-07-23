@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools==83.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "governance-runtime-disposable"
+version = "0.1.0"
+requires-python = ">=3.12"
+
+[tool.setuptools]
+py-modules = ["app"]
