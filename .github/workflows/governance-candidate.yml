@@ -1,4 +1,5 @@
 name: Governance Candidate Evidence
+# C-07 candidate-controlled workflow tamper.
 
 on:
   pull_request:
