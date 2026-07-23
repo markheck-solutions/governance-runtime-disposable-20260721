@@ -101,8 +101,8 @@ jobs:
             --evaluator-sha "c07b2ecf831fa2e3c68481a782a7e9e50d9dbc86" \
             --run-id "${GITHUB_RUN_ID}" \
             --run-attempt "${GITHUB_RUN_ATTEMPT}" \
-           --toolchain-root "$runtime" \
-           --output-dir "${RUNNER_TEMP}/governance-candidate-evidence"
+            --toolchain-root "$runtime" \
+            --output-dir "${RUNNER_TEMP}/governance-candidate-evidence"
 
       - name: Corrupt candidate evidence for C-08
         shell: bash
